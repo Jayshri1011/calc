@@ -3,7 +3,9 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Rajdhani", sans-serif;
+  font-style: italic;
+  font-size: 50px;
 }
 
 body {
@@ -11,8 +13,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #fbb034;
+  background-color: #d6cec2e1;
   background-image: url("./folder/img3.jpg");
   background-size: 1100px 750px;
   background-position: center;
+  background-size: cover;
 }
